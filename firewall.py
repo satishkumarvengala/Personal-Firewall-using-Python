@@ -1,4 +1,3 @@
-
 import queue
 import threading
 from scapy.all import sniff, conf
